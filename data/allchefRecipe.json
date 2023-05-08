@@ -1,0 +1,398 @@
+{
+  "chefSection": [
+    {
+      "chefId": 1,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef1.png",
+      "chefName": "John Smith",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 75,
+      "likes": 125,
+      "shortBio": "John Smith has been cooking for over 12 years and has developed a passion for creating delicious and visually appealing dishes. He loves experimenting with different spices and herbs to create unique flavor combinations.",
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://plus.unsplash.com/premium_photo-1661780307431-c21fd96e4129?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGN1cnJ5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Spicy Chicken Curry",
+          "ingredients": [
+            "chicken",
+            "onion",
+            "garlic",
+            "ginger",
+            "curry powder"
+          ],
+          "cookingMethod": ["1. Heat oil in a pan.", "2. Add onion, garlic, and ginger.", "3. Add chicken and cook until browned.", "4. Add curry powder and cook for 1-2 minutes.", "5. Add water and simmer for 20-25 minutes."],
+          "rating": 4.5,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1597393353415-b3730f3719fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8R2FybGljJTIwU2hyaW1wJTIwUGFzdGF8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Garlic Shrimp Pasta",
+          "ingredients": ["shrimp", "pasta", "garlic", "butter", "parsley"],
+          "cookingMethod": ["1. Cook pasta.", "2. Heat butter in a pan.", "3. Add garlic and cook until fragrant.", "4. Add shrimp and cook until pink.", "5. Add pasta and parsley and toss together."],
+          "rating": 4.2,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://images.unsplash.com/photo-1676300185579-ed2b14891d82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Beef Stroganoff",
+          "ingredients": [
+            "beef",
+            "onion",
+            "mushrooms",
+            "sour cream",
+            "egg noodles"
+          ],
+          "cookingMethod": ["1. Cook egg noodles.", "2. Brown beef in a pan.", "3. Add onion and mushrooms and cook until softened.", "4. Add sour cream and cook for a few minutes.", "5. Serve over egg noodles."],
+          "rating": 4.7,
+          "favoriteButton": true
+        }
+      ]
+    },
+    {
+      "chefId": 2,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef3.png",
+      "chefName": "Jane Doe",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 50,
+      "likes": 95,
+      "shortBio": "Jane Doe is a talented chef with a passion for using fresh, locally sourced ingredients in her dishes. She loves to create healthy, flavorful meals that please the palate and nourish the body.",
+
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8R3JpbGxlZCUyMENoZWVzZSUyMFNhbmR3aWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Grilled Cheese Sandwich",
+          "ingredients": ["bread", "cheese", "butter", "mayonnaise", "tomato"],
+          "cookingMethod": ["1. Butter one side of each bread slice", "2. Add cheese and tomato slices to one slice", "3. Top with the other slice, butter side facing out", "4. Heat a pan and add the sandwich", "5. Cook until bread is golden brown and cheese is melted."],
+          "rating": 4.0,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1670508142255-f119391c4213?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8UGVzdG8lMjBQYXN0YSUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Pesto Pasta Salad",
+          "ingredients": [
+            "pasta",
+            "pesto",
+            "cherry tomatoes",
+            "olives",
+            "feta cheese"
+          ],
+          "cookingMethod": ["1. Cook pasta", "2. Add pesto, cherry tomatoes, olives, and feta cheese", "3. Toss together."],
+          "rating": 4.5,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpY2tlbiUyMEZhaml0YXN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Chicken Fajitas",
+          "ingredients": [
+            "chicken",
+            "bell peppers",
+            "onion",
+            "tortillas",
+            "sour cream"
+          ],
+          "cookingMethod": ["1. Cook chicken in a pan", "2. Add bell peppers and onion and cook until softened", "3. Serve on tortillas with sour cream"],
+          "rating": 4.3,
+          "favoriteButton": true
+        }
+      ]
+    },
+    {
+      "chefId": 3,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef2.png",
+      "chefName": "Michael Johnson",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 100,
+      "likes": 200,
+      "shortBio": "Michael Johnson is an award-winning chef with a passion for creating innovative dishes that push the boundaries of traditional cuisine. He is constantly experimenting with new ingredients and techniques to push the envelope and delight the senses.",
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://images.unsplash.com/photo-1640983743761-4f0e0204bc58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVlZiUyMHRhY29zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Beef Tacos",
+          "ingredients": [
+            "beef",
+            "taco seasoning",
+            "tortillas",
+            "lettuce",
+            "tomato"
+          ],
+          "cookingMethod": [
+            "Cook beef in a pan.",
+            "Add taco seasoning and cook for a few minutes.",
+            "Serve on tortillas with lettuce and tomato."
+          ],
+          "rating": 4.8,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1544378730-5e409d0e649e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8UGVzdG8lMjBDaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Pesto Chicken",
+          "ingredients": [
+            "chicken",
+            "pesto",
+            "mozzarella cheese",
+            "tomato",
+            "basil"
+          ],
+          "cookingMethod": [
+            "Preheat oven to 375°F.",
+            "Place chicken in a baking dish.",
+            "Spread pesto over chicken.",
+            "Add tomato slices and mozzarella cheese.",
+            "Bake for 25-30 minutes.",
+            "Top with basil."
+          ],
+          "rating": 4.6,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/2/26/2/WU1307H_stuffed-peppers_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1463506005081.jpeg",
+          "recipeName": "Stuffed Bell Peppers",
+          "ingredients": [
+            "bell peppers",
+            "ground beef",
+            "rice",
+            "tomato sauce",
+            "cheddar cheese"
+          ],
+          "cookingMethod": [
+            "Preheat oven to 375°F.",
+            "Cook ground beef in a pan.",
+            "Add cooked rice and tomato sauce.",
+            "Cut off tops of bell peppers and remove seeds.",
+            "Stuff with beef mixture.",
+            "Top with cheddar cheese.",
+            "Bake for 25-30 minutes."
+          ],
+          "rating": 4.7,
+          "favoriteButton": true
+        }
+      ]
+    },
+    {
+      "chefId": 4,
+      "chefPicture": "https://img.freepik.com/premium-photo/young-attractive-chef-woman-isolated-white-background_185193-80248.jpg?size=626&ext=jpg&ga=GA1.2.734365179.1683055620&semt=ais",
+      "chefName": "Emily Davis",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 30,
+      "likes": 65,
+      "shortBio": "Emily Davis is a passionate chef with a talent for creating beautiful, flavorful dishes. She believes that food is an art form and takes great care in crafting each dish to be both visually stunning and delicious.",
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://images.unsplash.com/photo-1606791422814-b32c705e3e2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Um9hc3RlZCUyMFZlZ2V0YWJsZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Roasted Vegetables",
+          "ingredients": [
+            "carrots",
+            "potatoes",
+            "brussels sprouts",
+            "olive oil",
+            "salt"
+          ],
+          "cookingMethod": ["1. Preheat oven to 425°F.","2. Cut vegetables into similar-sized pieces.", "3. Toss with olive oil and salt.", "4. Roast for 25-30 minutes."],
+          "rating": 4.2,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QmFrZWQlMjBTYWxtb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Baked Salmon",
+          "ingredients": ["salmon", "lemon", "garlic", "butter", "dill"],
+          "cookingMethod": ["1. Preheat oven to 375°F.", "2. Place salmon in a baking dish.", "3. Top with lemon slices, garlic, and butter.", "4. Bake for 20-25 minutes.", "5. Top with dill."],
+          "rating": 4.5,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg.rend.hgtvcom.1280.720.suffix/1530799984231.jpeg",
+          "recipeName": "Caprese Salad",
+          "ingredients": [
+            "tomato",
+            "mozzarella cheese",
+            "basil",
+            "balsamic vinegar",
+            "olive oil"
+          ],
+          "cookingMethod": ["1. Slice tomato and mozzarella cheese.", "2. Arrange on a plate with basil.", "3. Drizzle with balsamic vinegar and olive oil."],
+          "rating": 4.0,
+          "favoriteButton": true
+        }
+      ]
+    },
+    {
+      "chefId": 5,
+      "chefPicture": "https://img.freepik.com/free-photo/chef-pointing-front-white-background_1368-2835.jpg?size=626&ext=jpg",
+      "chefName": "David Lee",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 60,
+      "likes": 120,
+      "shortBio": "David Lee is a master of Asian cuisine, with a talent for using authentic recipes and incorporating modern twists to create unique and delicious dishes. He is passionate about bringing the flavors of Asia to people all over the world.",
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://www.jocooks.com/wp-content/uploads/2021/09/garlic-butter-shrimp-1-10-750x938.jpg",
+          "recipeName": "Garlic Butter Shrimp",
+          "ingredients": [
+            "1 lb shrimp, peeled and deveined",
+            "4 cloves garlic, minced",
+            "2 tbsp butter",
+            "1 tbsp olive oil",
+            "1/4 tsp salt",
+            "1/4 tsp black pepper"
+          ],
+          "cookingMethod": [
+            "Heat olive oil and butter in a large skillet over medium-high heat",
+            "Add garlic and cook until fragrant",
+            "Add shrimp and cook until pink and cooked through",
+            "Season with salt and pepper"
+          ],
+          "rating": 4.5,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1668724775591-f50dd8ed65a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Beef Stroganoff",
+          "ingredients": [
+            "1 lb beef sirloin, sliced thin",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "8 oz mushrooms, sliced",
+            "1 cup beef broth",
+            "1/2 cup sour cream"
+          ],
+          "cookingMethod": [
+            "Brown beef in a large skillet over medium-high heat",
+            "Remove beef and set aside",
+            "Add onion and garlic to the same skillet and cook until softened",
+            "Add mushrooms and cook until tender",
+            "Add beef broth and bring to a boil",
+            "Reduce heat and simmer for 10 minutes",
+            "Stir in sour cream and beef",
+            "Cook until heated through"
+          ],
+          "rating": 4.8,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://www.cookingclassy.com/wp-content/uploads/2022/02/pesto-pasta-1-768x1152.jpg",
+          "recipeName": "Pesto Pasta",
+          "ingredients": [
+            "1 lb pasta",
+            "1 cup basil leaves",
+            "1/2 cup grated Parmesan cheese",
+            "1/4 cup pine nuts",
+            "2 cloves garlic",
+            "1/2 cup olive oil"
+          ],
+          "cookingMethod": [
+            "Cook pasta according to package instructions",
+            "In a food processor, pulse basil, Parmesan cheese, pine nuts, and garlic until finely chopped",
+            "With the motor running, slowly add olive oil until smooth",
+            "Toss pesto with cooked pasta"
+          ],
+          "rating": 4.3,
+          "favoriteButton": true
+        }
+      ]
+    },
+    {
+      "chefId": 6,
+      "chefPicture": "https://img.freepik.com/premium-photo/portrait-smiling-woman-chef-uniform-with-blonde-long-hair-looking-camera-while-holding-hands-hat_382934-1243.jpg?size=626&ext=jpg&ga=GA1.1.734365179.1683055620&semt=ais",
+      "chefName": "Sarah Kim",
+      "yearsOfExperience": 3,
+      "numberOfRecipes": 20,
+      "likes": 40,
+      "shortBio": "Sarah Kim is a rising star in the culinary world, with a passion for creating innovative vegetarian and vegan dishes. She believes that food should not only taste good, but should also be good for the body and the planet.",
+      "recipes": [
+        {
+          "recipeId": 1,
+          "recipeImg": "https://plus.unsplash.com/premium_photo-1675864532835-6e47099cca6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8S29yZWFuJTIwRnJpZWQlMjBDaGlja2VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Korean Fried Chicken",
+          "ingredients": [
+            "2 lbs chicken wings",
+            "1/2 cup flour",
+            "1/4 cup cornstarch",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "1/2 cup Korean chili paste",
+            "1/4 cup soy sauce",
+            "1/4 cup honey",
+            "2 cloves garlic, minced"
+          ],
+          "cookingMethod": [
+            "Preheat oven to 400°F.",
+            "In a large bowl, mix together flour, cornstarch, salt, and black pepper.",
+            "Add chicken wings and toss to coat.",
+            "Place wings on a baking sheet and bake for 25-30 minutes, until crispy and cooked through.",
+            "In a medium bowl, whisk together chili paste, soy sauce, honey, and garlic.",
+            "Toss baked wings in sauce until coated."
+          ],
+          "rating": 4.7,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 2,
+          "recipeImg": "https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QmliaW1iYXB8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Bibimbap",
+          "ingredients": [
+            "1 lb beef sirloin, sliced thin",
+            "1 carrot, julienned",
+            "1 zucchini, julienned",
+            "1 cup bean sprouts",
+            "1 cup spinach",
+            "4 eggs",
+            "4 cups cooked rice",
+            "4 tbsp gochujang sauce"
+          ],
+          "cookingMethod": [
+            "In a large skillet, brown beef over medium-high heat.",
+            "Remove beef and set aside.",
+            "In the same skillet, cook carrot and zucchini until tender.",
+            "Cook bean sprouts and spinach until wilted.",
+            "Fry eggs sunny-side up.",
+            "To assemble, divide rice among 4 bowls.",
+            "Top with beef, vegetables, and eggs.",
+            "Drizzle with gochujang sauce."
+          ],
+          "rating": 4.9,
+          "favoriteButton": true
+        },
+        {
+          "recipeId": 3,
+          "recipeImg": "https://images.unsplash.com/photo-1580442151529-343f2f6e0e27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8S2ltY2hpJTIwRnJpZWQlMjBSaWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+          "recipeName": "Kimchi Fried Rice",
+          "ingredients": [
+            "4 cups cooked rice",
+            "1 cup kimchi, chopped",
+            "1/2 cup diced ham",
+            "2 cloves garlic, minced",
+            "2 tbsp vegetable oil",
+            "2 eggs",
+            "2 green onions, sliced"
+          ],
+          "cookingMethod": [
+            "In a large skillet, heat oil over medium-high heat.",
+            "Add garlic and cook until fragrant.",
+            "Add kimchi and ham and cook until heated through.",
+            "Add rice and stir-fry until crispy.",
+            "Push rice to the sides of the skillet and crack eggs into the center.",
+            "Scramble eggs and mix with rice.",
+            "Serve topped with sliced green onions."
+          ],
+          "rating": 4.2,
+          "favoriteButton": true
+        }
+      ]
+
+    }
+  ]
+}

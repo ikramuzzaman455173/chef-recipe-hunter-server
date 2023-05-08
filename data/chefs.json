@@ -1,0 +1,59 @@
+
+{
+  "chefSection": [
+    {
+      "chefId": 1,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef1.png",
+      "chefName": "John Smith",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 75,
+      "likes": 125,
+      "shortBio": "John Smith has been cooking for over 12 years and has developed a passion for creating delicious and visually appealing dishes. He loves experimenting with different spices and herbs to create unique flavor combinations."
+    },
+    {
+      "chefId": 2,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef3.png",
+      "chefName": "Jane Doe",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 50,
+      "likes": 95,
+      "shortBio": "Jane Doe is a talented chef with a passion for using fresh, locally sourced ingredients in her dishes. She loves to create healthy, flavorful meals that please the palate and nourish the body."
+    },
+    {
+      "chefId": 3,
+      "chefPicture": "https://html.webinane.com/mazaa/assets/images/resources/chef2.png",
+      "chefName": "Michael Johnson",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 100,
+      "likes": 200,
+      "shortBio": "Michael Johnson is an award-winning chef with a passion for creating innovative dishes that push the boundaries of traditional cuisine. He is constantly experimenting with new ingredients and techniques to push the envelope and delight the senses."
+    },
+    {
+      "chefId": 4,
+      "chefPicture": "https://img.freepik.com/premium-photo/young-attractive-chef-woman-isolated-white-background_185193-80248.jpg?size=626&ext=jpg&ga=GA1.2.734365179.1683055620&semt=ais",
+      "chefName": "Emily Davis",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 30,
+      "likes": 65,
+      "shortBio": "Emily Davis is a passionate chef with a talent for creating beautiful, flavorful dishes. She believes that food is an art form and takes great care in crafting each dish to be both visually stunning and delicious."
+    },
+    {
+      "chefId": 5,
+      "chefPicture": "https://img.freepik.com/free-photo/chef-pointing-front-white-background_1368-2835.jpg?size=626&ext=jpg",
+      "chefName": "David Lee",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 60,
+      "likes": 120,
+      "shortBio": "David Lee is a master of Asian cuisine, with a talent for using authentic recipes and incorporating modern twists to create unique and delicious dishes. He is passionate about bringing the flavors of Asia to people all over the world."
+    },
+    {
+      "chefId": 6,
+      "chefPicture": "https://img.freepik.com/premium-photo/portrait-smiling-woman-chef-uniform-with-blonde-long-hair-looking-camera-while-holding-hands-hat_382934-1243.jpg?size=626&ext=jpg&ga=GA1.1.734365179.1683055620&semt=ais",
+      "chefName": "Sarah Kim",
+      "yearsOfExperience": 3,
+      "numberOfRecipes": 20,
+      "likes": 40,
+      "shortBio": "Sarah Kim is a rising star in the culinary world, with a passion for creating innovative vegetarian and vegan dishes. She believes that food should not only taste good, but should also be good for the body and the planet."
+    }
+  ]
+}
